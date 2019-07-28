@@ -42,5 +42,8 @@ public class patientDetails {
 	public void setAddress(String address) {
 		this.address = address;
 	}
+	
+	
+	private String idProof;
 
 }
