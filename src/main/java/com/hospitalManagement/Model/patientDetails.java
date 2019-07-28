@@ -11,8 +11,15 @@ public class patientDetails {
 	private String name;
 	private int age;
 	private String address;
+	private String bedno; 
 	public int getId() {
 		return id;
+	}
+	public String getBedno() {
+		return bedno;
+	}
+	public void setBedno(String bedno) {
+		this.bedno = bedno;
 	}
 	public void setId(int id) {
 		this.id = id;
