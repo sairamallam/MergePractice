@@ -45,5 +45,10 @@ public class patientDetails {
 	
 	
 	private String idProof;
+
     private String nurseName;
+
+	private String doctorname2;
+
+
 }
