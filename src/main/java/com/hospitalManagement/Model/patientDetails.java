@@ -45,5 +45,6 @@ public class patientDetails {
 	
 	
 	private String idProof;
+	private String doctorname2;
 
 }
